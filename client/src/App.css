@@ -194,4 +194,27 @@ h3 {
 .form-row {
   display: flex;
   gap: 10px;
+}
+
+/* Footer */
+.footer {
+  background-color: transparent;
+  color: #333;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: 30px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer p {
+  margin: 0;
+  font-size: 16px;
+}
+
+.footer span[role="img"] {
+  color: #ff4d4d;
+  font-size: 18px;
+  margin-left: 5px;
 } 
