@@ -26,6 +26,7 @@ body {
   color: #fff;
   padding: 15px 0;
   margin-bottom: 30px;
+  position: fixed;
 }
 
 .navbar h1 {
